@@ -9,9 +9,6 @@ public class PlayingCards
     /*
     A settlement needs you help. Let me mark it on your map.
     */
-    /*
-    Changed stuff.
-    */
     private static int numCards = 10;
     public static void main(String[] args) 
     {
