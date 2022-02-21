@@ -1,5 +1,7 @@
 package assignmentone;
 
+//Lord Rydell is in Latria.
+
 //Card class implementing Comparable to sorting purposes
 public class Card implements Comparable <Card>
 {
