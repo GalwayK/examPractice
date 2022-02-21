@@ -2,7 +2,8 @@ package assignmentone;
 
 public class PlayingCards 
 {
-
+    //Adds numCards field
+    private static int numCards = 10;
     public static void main(String[] args) 
     {
         //Creates and displays a standard deck
